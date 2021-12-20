@@ -1,6 +1,7 @@
 ---
 title: About
 description: What is Hugo?
+url: /about/
 ---
 
 Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.

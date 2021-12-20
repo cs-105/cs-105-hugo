@@ -4,6 +4,8 @@ description: Westmont CS105 Group Project
 layout: single
 date: 2021-12-19T20:39:39-08:00
 draft: false
+weight: 50
+url: /group_project/
 ---
 
 The purpose of this project is for student groups to explore a programming language via the criteria presented in class. 
